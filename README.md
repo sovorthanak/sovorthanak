@@ -1,89 +1,28 @@
-┌───────────────────────────────────────────┐
-│  SYSTEM BOOT: SOVORTHANAK.CHHOEUN          │
-└───────────────────────────────────────────┘
+# 👋 Hi, I'm Sovorthanak Chhoeun!
 
-👋 Hello, I’m **Sovorthanak Chhoeun**  
-A web developer who treats code like a system —  
-**designed, optimized, and constantly upgraded**.
-
-I build **web applications**, **chatbots**, and experiment with **AI**
-to turn ideas into tools people can actually use.
+Welcome to my GitHub! I'm a web developer with a passion for building modern websites, creating chatbots, and exploring AI.
 
 ---
 
-## ⚙️ SYSTEM PROFILE
+## 🚀 Tech Stack
 
-- 🧑‍💻 Role: Web Developer / Automation Builder
-- 🧠 Mindset: Learn → Build → Refactor → Repeat
-- 🤖 Specialty: Chatbots & backend logic
-- 🚀 Goal: Create simple solutions to complex problems
-
----
-
-## 🧪 ACTIVE MODULES (TECH STACK)
-
-### 🖥️ Frontend Interface
-- HTML
-- CSS
-- JavaScript
-- React.js *(in progress)*
-
-### 🧩 Backend Core
-- Node.js
-- Laravel
-
-### 🧠 Programming Languages
-- JavaScript
-- Python
-- Java
-- C++
-
-### 🔧 DevOps & Tools
-- Docker
-- Git & GitHub
-- GitHub Actions
-
-### 🤖 Automation & Bots
-- Telegram Bots using **Grammy**
+- 🌐 Frontend: HTML, CSS, JavaScript
+- ⚙️ Backend: Node.js, Laravel
+- 📦 DevOps / Tools: Docker, Git, GitHub Actions 
+- 🤖 Bots: Grammy (Telegram Bots)
+- 📚 Languages: Python, Java, C++, JavaScript
+- 🧠 Currently Exploring: React.js, AI, Machine Learning
 
 ---
 
-## 🧭 CURRENT EXPERIMENTS
+## 📬 Get in Touch
 
-- ⚛️ Building reactive UIs with React
-- 🤖 Exploring AI & Machine Learning concepts
-- 🧩 Designing cleaner APIs and backend flows
-- 🛠️ Improving system architecture & scalability
-
----
-
-## 📂 PROJECT PHILOSOPHY
-
-> I don’t build projects to “fill GitHub.”  
-> I build them to **solve problems**, **learn deeply**,  
-> and **break things until they work better**.
-
-Each repository is:
-- a lesson learned
-- a problem solved
-- or an experiment worth keeping
+- 📧 Email: chh.vorthanak@gmail.com
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/chhoeun-sovorthanak-1965622b5)
+- 🌐 Portfolio: [My Personal Website](https://sovorthanak.site/index.html)
 
 ---
 
-## 📡 CONNECT INTERFACE
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-- 📧 Email → **chh.vorthanak@gmail.com**
-- 💼 LinkedIn → https://www.linkedin.com/in/chhoeun-sovorthanak-1965622b5
-- 🌐 Portfolio → https://sovorthanak.site
-
----
-
-## 🧠 SYSTEM QUOTE
-
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — **:contentReference[oaicite:0]{index=0}**
-
----
-
-🟢 **STATUS:** Actively building  
-⭐ **TIP:** Check pinned repositories for real-world projects
+Thanks for visiting! ⭐️ Feel free to check out my pinned repositories!
